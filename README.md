@@ -1,3 +1,3 @@
 # Level-JJAMM
 
-Joint effort by: Jerry Smedley, 
+Joint effort by: Jerry Smedley, Melissa Barnes
