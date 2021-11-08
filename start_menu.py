@@ -1,6 +1,7 @@
 import curses
 
 def start_menu():
+    # texting
     stdscr = curses.initscr()
     curses.curs_set(0)
     curses.start_color()
